@@ -7,7 +7,7 @@ An Android app that implements some jetpack libraries
 - Back Stack manipulation
 - Action Bar
 - Navigate Up function
-- Sage Arguments
+- Safe Arguments
 - Explicit Intents
 - Implicit Intents 
 - Navigation Drawer
