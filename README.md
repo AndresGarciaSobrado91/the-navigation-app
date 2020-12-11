@@ -12,3 +12,7 @@ An Android app that implements some jetpack libraries
 - Implicit Intents 
 - Navigation Drawer
 - Navigation Animations
+
+## Languages
+- Kotlin
+- XML
